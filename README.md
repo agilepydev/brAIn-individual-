@@ -8,7 +8,7 @@ The company has collected audio samples of equipment working on normal and anoma
 
 The implementation of this model can allow Acme to operate the manufacturing equipment at full capacity and detect signs of failure before the damage is so critical that the production line has to be stopped.
 
-Your mission is to build a machine learning model for Acme, so they can continue their manufacturing activities and help the Coyote to catch the roadrunner.
+Our mission is to build a machine learning model for Acme, so they can continue their manufacturing activities and help the Coyote to catch the roadrunner.
 
 
 ## Objectives
