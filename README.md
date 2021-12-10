@@ -138,7 +138,7 @@ Davies-Bouldin Index: 0.55
 
 I also managed to save the model to disc as a .pkl file and you can find this in the repository.
 
-I was also able to work with the DBSCAN method wich I should work more on as the visualization on this isn't too clear.
+In terms of doing more research, the following plot wich I used the DBSCAN method is currently unclear and will be solved on our next meeting.
 
 ![not_clear](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/DBSCAN.png?raw=true)
 
