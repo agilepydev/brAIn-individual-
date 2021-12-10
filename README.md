@@ -71,10 +71,16 @@ By reading the readme file you're able to get a clear description of the objecti
 
 As in the first stage of the project together with my colleague [N1chelle](https://github.com/N1chelle) 
 we installed the datasets from each machine with the decibel number zero.
-We extracted our files based on these six features: ![features](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/features.png?raw=true)
+We extracted our files based on these six features: 
+
+![features](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/features.png?raw=true)
+
 We were able to plot the spectogram wich gives us Insights on the amount of hertz per certain timeframes wich effects the number of decibels.
+
 ![spectogram](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/spectogram.png?raw=true)
+
 This plot gives us insights on the signal based on the Amplitude per few samples of each timeframe.
+
 ![signal](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/amplitude.png?raw=true)
 
 This specific plot shows that the rate of the amplitude increased based on how low the frequency bin of the sound spectrum.
