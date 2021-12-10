@@ -54,5 +54,23 @@ In the [requirements.txt]('https://github.com/agilepydev/brAIn-individual-/blob/
 
 ## Usage
 
-By reading the readme file you're able to get a report on the sound project for Acme
+By reading the readme file you're able to get a clear description of the objective and final report on the sound project for Acme executed on the Clustering.ipynb file.
+
+## Timeline
+
+*October - November 2021*
+
+- Duration: `3 days`
+- Deadline: `10/12/21 16:00 PM`
+
+## report
+
+As in the first stage of the project together with my colleague [N1chelle](https://github.com/N1chelle) 
+we installed the datasets from each machine with the decibel number zero.
+We extracted our files based on these six features: ![features](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/features.png?raw=true)
+We were able to plot the spectogram wich gives us Insights on the amount of hertz per certain timeframes wich effects the number of decibels.
+![spectogram](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/spectogram.png?raw=true)
+This plot gives us insights on the signal based on the Amplitude per few samples of each timeframe.
+![signal](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/amplitude.png?raw=true)
+
 
