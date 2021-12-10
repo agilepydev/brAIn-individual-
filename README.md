@@ -1,11 +1,9 @@
-# brAIn
+# brAIn ![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain2.png)
 
 ## Description
 Acme Corporation is a worldwide supplier of technological equipment. The factory is facing significant problems with their manufacturing line, the machines are constantly facing failures due to a lack of maintenance and the production is stopped every time an unexpected failure is presented. As a result, Acme is losing millions of U.S. Dollars and important clients like Wile E. Coyote are experiencing delays in deliveries.
 
 The company has collected audio samples of equipment working on normal and anomalous conditions. Their objective is to develop a machine learning model able to monitor the operations and identify anomalies in the sound pattern.
-
-![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain2.png)
 
 The implementation of this model can allow Acme to operate the manufacturing equipment at full capacity and detect signs of failure before the damage is so critical that the production line has to be stopped.
 
