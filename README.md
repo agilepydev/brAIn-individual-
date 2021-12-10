@@ -103,6 +103,7 @@ SVM: 78.3 %
 
 These are the extra metrics:
 
+![ha](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/metrics_classification.png?raw=true)
 
 ### Clustering
 
