@@ -1,5 +1,6 @@
 # brAIn
 
+![App Screenshot](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/brain.png)
 
 ## Description
 Acme Corporation is a worldwide supplier of technological equipment. The factory is facing significant problems with their manufacturing line, the machines are constantly facing failures due to a lack of maintenance and the production is stopped every time an unexpected failure is presented. As a result, Acme is losing millions of U.S. Dollars and important clients like Wile E. Coyote are experiencing delays in deliveries.
