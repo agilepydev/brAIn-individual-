@@ -128,6 +128,8 @@ Note: For Clusters (0= normality, 1= abnormality, 2= transitory)
 
 For the visualization of the distortions of K-Means I decided to plot a graph using the elbow method.
 
+![elbow](https://github.com/agilepydev/brAIn-individual-/blob/development/assets/elbow_method.png?raw=true)
+
 As for the metric scores K-means, this is the performance:
 
 The Silhouette Coefficient: 0.55
